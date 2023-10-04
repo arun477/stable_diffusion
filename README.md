@@ -1,2 +1,1 @@
-# stable_diffusion
-Stable Diffusion From Scratch
+#### Stable Diffusion From Scratch
