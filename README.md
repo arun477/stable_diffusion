@@ -1,4 +1,4 @@
 #### Stable Diffusion From Scratch
 
 ##### Generated Samples
-![image](assets/image.png)
+![image](assets/output.png)
